@@ -1,5 +1,21 @@
 # FALL 2025 - CS 5001/5003 - Intensive Foundations of Computer Science. Online (4 Hours)
 
+|   &nbsp;|  &nbsp;   |
+|:------ | :-------|
+| Course Code & Title |  CS 5001: Intensive Foundations of Computer Science <br/> CS 5003:  Recitation for CS 5001 |
+|Number of Credit Hours  | 4 |
+|Semester & Year of Offering | Fall 2025 |
+|Class Meeting Days & Times | No required meetings, weekly team activities, weekly optional live session, Thursdays 6PM ET |
+| Class Meeting Location | Online |
+| Required Textbook or Materials | No textbook required <br> Python 3.10+ required, <br> Github.com account required, <br> MS Teams required |
+
+**Instructor:**  
+Albert Lionelle (he/him/his)   
+Director of Align, Associate Teaching Professor      
+Contact Information listed on **Course Home Page in Canvas**
+
+
+## Course Description
 Introduces systematic problem solving through programming. Offers students an opportunity to learn how to analyze a problem, how to divide and organize the problem into appropriate components, how to describe the problem in a computer language, how to analyze and understand the behavior of their programs, and how to test that their programs are working correctly. Additionally, introduces a method of program design called object-oriented programming and various ways to organize data, including a discussion of their advantages and disadvantages. To practice the course concepts, students undertake assignments ranging from small, highly specified programming tasks to larger open-ended problems where students design and code their own solutions.
 
 
@@ -20,6 +36,24 @@ The course is suitable for students in the ALIGN MS in CS program. It assumes no
 6. Select appropriate data types to represent information including using common library classes.
 7. Assess the impact of data structure and algorithm choice on the run time and storage space needed to execute a program.
 
+## Course Structure
+| Week | Topic | Assessments  |
+|:--:  | :---: | :----------: |
+| 1 | Residency| - |
+| 2 | Getting Started | Homework 01 |
+| 3 | Conditionals  | Team Activity, Homework 02 |
+| 4 | Functions | Team Activity, Homework 03
+| 5 | While loops  | Team Activity, Homework 04 |
+| 6 | Strings and Lists | Team Activity, Homework 05 |
+| 7 | For Loops | Team Activity, Homework 06, Code Walk due |
+| 8 | Recursion| Team Activity, Homework 07 |
+| 9 | Files and Error Handling| Team Activity, Homework 08 |
+| 10 | Dictionaries and Sets | Team Activity, Homework 09 |
+| 11 | Classes and Objects | Team Activity |
+| 12 | Stacks and Queues | Team Activity, Code Walk due |
+| 13 | Catch up week     | - |
+| 14 | Sorting and Searching | - |
+| 15 | Final Project | Final Project Due |
 
 
 ## Student Participation 
@@ -43,7 +77,7 @@ Please plan ahead! It can be hard to estimate when you might get stuck, so make 
 
 ## Assessment
 
-Course Assignments will be broken down into categories that can be found on the Assignments page of the course canvas shell. There you will find percentages of each category, along with policies for individual categories such as dropping the lowest grade or not. In general if we are dropping the lowest grades in a category, we will NOT drop the last assignment of the category (as it is essentially the culmination of all the other assignments).
+Course Assignments will be broken down into categories that can be found on the **Assignments page of the course canvas shell**. There you will find percentages of each category, along with policies for individual categories such as dropping the lowest grade or not. In general if we are dropping the lowest grades in a category, we will NOT drop the last assignment of the category (as it is essentially the culmination of all the other assignments).
 
 In general assignments are either formative or summative. Formative assignments document your learning process, and there are often ways they can be redone showing that you learned the material. Summative assignments are your opportunity to demonstrate what you know, and are show your ability level on the topic. Summative assignments are often time restricted and have limited attempts.
 
@@ -82,7 +116,7 @@ For homework assignments, you will be able to resubmit usually without meeting a
 Needless to say, unless specified otherwise if the available day has passed for any assignment with open resubmissions, that means resubmission windows are also not available! 
 
 
-### Grading Scheme
+
 ### Grading Scheme
 All grades in this course, while on a point scale, translate into a final percentage scale once all categories are calculated. This is the following scheme we use.
 
@@ -98,8 +132,7 @@ All grades in this course, while on a point scale, translate into a final percen
 | F      | 69.9  |   0   |
 
 The above grading scheme is slightly modified from your traditional +/- scheme as follows:
-* A- intentionally removed, as A+ doesn't give a GPA boost, to balance out an A-
-* plus/minus grading is used for other grading categories, to better reflect borderline grades.
+
 
 Grade boundaries are subject to change at the discretion of the instructor, but they will not become more difficult to achieve a grade.  
 
@@ -224,7 +257,7 @@ If you follow those steps, you will find that the first two are needed before ge
 Our goal is to ensure that every student should be able to participate in this course. Students with disabilities who wish to receive academic services and/or accommodations should visit the [Disability Access Services (DAS)](https://disabilityaccessservices.sites.northeastern.edu/) (previously known as DRS) or call (844) 688-6287. If you have already done so, please provide your letter from the DRC to the instructor -- early in the semester -- to arrange for those accommodations. If you do require any special accommodations, let the instructor know immediately so that appropriate details can be worked out.
 
 ### Student Feedback
-Your opinions are very important to the TAs and faculty. In addition to the university required student evaluation form, at the end of the semester, we will be asking for your feedback at least once about during the semester. However, if you have suggestions or concerns about the course, don’t wait until you are asked. You can contact us any time! As a simple example, if my lectures are too fast, or too slow, or if I need to speak more loudly, let me know!
+Your opinions are very important to me. All students are strongly encouraged to use the TRACE (Teacher Rating and Course Evaluation) system https://northeastern.bluera.com/ the end of the course to evaluate this course.  A reminder about TRACE should arrive via email about two weeks before the end of the course.  In addition, I will be asking for your feedback at least once about halfway through the semester. However, if you have concerns about the course, don’t wait until you are asked. You can contact me any time! 
 
 ### Academic Standing Process: Offering Additional Support
 
@@ -257,3 +290,4 @@ Reporting Prohibited Offenses to NUPD does NOT commit the victim/affected party 
 **In case of an emergency, please call 911.**
 
 Please visit The Office for [University Equity and Compliance](https://www.northeastern.edu/ouec/) for the full Title IX Policy, a complete list of reporting options and resources both on and off-campus.
+
