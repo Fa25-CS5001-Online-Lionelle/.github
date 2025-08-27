@@ -45,11 +45,11 @@ The course is suitable for students in the ALIGN MS in CS program. It assumes no
 | 4 | Functions | Team Activity, Homework 03
 | 5 | While loops  | Team Activity, Homework 04 |
 | 6 | Strings and Lists | Team Activity, Homework 05 |
-| 7 | For Loops | Team Activity, Homework 06, Code Walk due |
+| 7 | For Loops | Team Activity, Reflection, Code Walk due |
 | 8 | Recursion| Team Activity, Homework 07 |
 | 9 | Files and Error Handling| Team Activity, Homework 08 |
 | 10 | Dictionaries and Sets | Team Activity, Homework 09 |
-| 11 | Classes and Objects | Team Activity |
+| 11 | Classes and Objects | Team Activity, Final project discussion due |
 | 12 | Stacks and Queues | Team Activity, Code Walk due |
 | 13 | Catch up week     | - |
 | 14 | Sorting and Searching | - |
